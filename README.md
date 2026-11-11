@@ -75,4 +75,7 @@ Mode                 LastWriteTime         Length Name
 
 ```
 
+- [x] Sắp xếp thư mục dự án
+- [ ] Upload dự án lên Github
+
 > Không upload file .env lên Github
