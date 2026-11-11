@@ -169,8 +169,8 @@ Property :
 
 | STT | Tab DevTools phát hiện lỗi | Tên file hoặc thông báo lỗi | Cách khắc phục |
 | --- | --- | --- | --- |
-| 1 | ERR_FILE_NOT_FOUND | logo-sound.png | sửa : images/logo-sound.png thành  images/logo-soundlab.png  |
-| 2 | hienThiGoiThuAm is not defined | logo-sound.png | dòng 18 sửa hienThiGoiThuAm thành hienThiGoiThu |
+| 1 | network | logo-sound.png | sửa : images/logo-sound.png thành  images/logo-soundlab.png  |
+| 2 | console | logo-sound.png | dòng 18 sửa hienThiGoiThuAm thành hienThiGoiThu |
 
 > Ảnh chụp màn hình lưu trong thư mục `evidence/` (network.png, console.png).
 
