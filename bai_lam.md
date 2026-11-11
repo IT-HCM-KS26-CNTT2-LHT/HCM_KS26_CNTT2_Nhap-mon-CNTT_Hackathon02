@@ -3,7 +3,7 @@
 - **Mã đề:** 08
 - **Họ tên:**  LÊ HOÀNG THÁI
 - **Lớp:** CNTT2
-- **Link repository:**
+- **Link repository:** https://github.com/IT-HCM-KS26-CNTT2-LHT/HCM_KS26_CNTT2_Nhap-mon-CNTT_Hackathon02.git
 - **Hệ điều hành (Windows/macOS):** Windows
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
@@ -178,7 +178,7 @@ Property :
 
 - **Context:** tui mở file index bằng cốc cốc
 - **Expected:** tui muốn hiện logo và bảng giá gói thu âm
-- **Actual:** bị lỗi logo và bảng giá thu âm không hiện
+- **Actual:** logo không thấy ảnh và bảng giá thu âm không hiện
 - **Log:**  lỗi logo-sound.png và  app.js
 
 ### Câu tìm kiếm Google
